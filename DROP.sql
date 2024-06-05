@@ -1,0 +1,11 @@
+DROP TABLE kara;
+DROP TABLE wypozyczenie;
+DROP TABLE wypozyczajacy;
+DROP TABLE egzemplarz;
+DROP TABLE ilustrowac;
+DROP TABLE grafik;
+DROP TABLE wydanie;
+DROP TABLE wydawnictwo;
+DROP TABLE napisac;
+DROP TABLE autor;
+DROP TABLE ksiazka;
